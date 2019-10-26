@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test-wtf/static/css/main.3604449f.chunk.css",
+    "main.js": "/test-wtf/static/js/main.682004a4.chunk.js",
+    "main.js.map": "/test-wtf/static/js/main.682004a4.chunk.js.map",
+    "runtime-main.js": "/test-wtf/static/js/runtime-main.8da32f3c.js",
+    "runtime-main.js.map": "/test-wtf/static/js/runtime-main.8da32f3c.js.map",
+    "static/js/2.f136b48a.chunk.js": "/test-wtf/static/js/2.f136b48a.chunk.js",
+    "static/js/2.f136b48a.chunk.js.map": "/test-wtf/static/js/2.f136b48a.chunk.js.map",
+    "index.html": "/test-wtf/index.html",
+    "precache-manifest.e1eb4f0bcbe328b52fae235a2a059b31.js": "/test-wtf/precache-manifest.e1eb4f0bcbe328b52fae235a2a059b31.js",
+    "service-worker.js": "/test-wtf/service-worker.js",
+    "static/css/main.3604449f.chunk.css.map": "/test-wtf/static/css/main.3604449f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8da32f3c.js",
+    "static/js/2.f136b48a.chunk.js",
+    "static/css/main.3604449f.chunk.css",
+    "static/js/main.682004a4.chunk.js"
+  ]
+}
